@@ -1,0 +1,85 @@
+body{width: 900px;
+     margin: 0 auto;
+     background-color: aliceblue;}
+
+
+
+.logo{width:180px;
+    height: 180px;
+float: left;
+padding: 5px;}
+
+
+.domovobr{height: 550px;
+          width: 880px;}
+
+    h1{font-family: 'Montserrat', sans-serif;
+     font-size: 60px; 
+     margin: 50px;
+    float: right;}
+
+
+    .domovtxt{font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+    text-align: center;
+}
+    .footer{color: #333;}
+    .footr {font-family: 'Montserrat', sans-serif;
+            color: white;}
+ 
+
+    
+    .cislo{font-size: 40px;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        border-style: solid;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+
+        
+    }
+   
+      .contactobr{height: 300px;
+                  width: 300px;
+                 
+      margin-left: 150px;}
+                  
+
+        .mail{font-size: 40px; 
+              font-family: 'Montserrat', sans-serif;
+                 text-align: center;
+                 
+                 border-style:groove;
+                 border-top: none;
+                 border-left: none;
+                 border-right: none;
+                 border-radius: 1px;
+                  }
+
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        font-family: 'Montserrat', sans-serif;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 45px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #111;
+      }
